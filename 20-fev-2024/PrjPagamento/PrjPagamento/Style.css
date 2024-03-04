@@ -1,0 +1,26 @@
+﻿body {
+    font-size: 100%;
+    background-color: #FFFFFF;
+    font-family: Consolas;
+}
+
+.texto {
+    font-size: 15px;
+    color: #000000;
+    font-family: Consolas;
+}
+
+.botao {
+    width: 90px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.mensagem {
+    font-size: 15px;
+    color: #FF0000;
+    text-decoration: none;
+}
